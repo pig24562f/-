@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Vengeance",
+  "description": "Multiplayer voxel-based FPS with a built-in map editor and classic server-join mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
